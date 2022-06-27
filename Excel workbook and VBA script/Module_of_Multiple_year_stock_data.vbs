@@ -1,5 +1,4 @@
-Attribute VB_Name = "Module1"
-
+Attribute VB_Name = "Module11"
 
 'A Script that loops through all the stocks for 1 year and
 'OUTPUTS THE FOLLOWING:
@@ -185,7 +184,8 @@ Next ws
 
 End Sub
 
-    
+
+
 
 
 
