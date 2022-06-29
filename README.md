@@ -24,9 +24,14 @@ To Create a script that loops through all the stocks for one year and outputs th
  
   ###Files uploaded:
 
-  1)The Completed Excel Workbook for the Multiple Year Stock Data "Multiple_year_stock_data.xlsm"
-  2)The VBS code script used for the Multiple Year stock data "Module_of_Multiple_year_stock_data.vbs"
+  1)The Completed Excel Workbook for the Multiple Year Stock Data as "Multiple_year_stock_data.xlsm"
+  2)The VBS code script used for the Multiple Year stock data as "Module_of_Multiple_year_stock_data.vbs"
   3) The screenshots of the year 2018-2020 , as "2018.png", "2019.png" and "2020.png". 
+
+![Image](Images/2018.png)
+![Image](Images/2019.png)
+![Image](Images/2020.png)
+
 
 
   ##Analysis:
